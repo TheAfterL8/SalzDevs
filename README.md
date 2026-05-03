@@ -1,8 +1,9 @@
 # SalzDevs
 
-Building small, sharp tools for problems that got buried under bloat.
+Developer building focused tools with a bias for control, clarity, and speed.
 
-I read diffs before trusting magic.  
-Anti-bloat, pro-control, professionally suspicious of abstractions.  
+Interested in systems, automation, developer tooling, and software that does more with less.
+
+Driven by wonder.
 
 X: [@SalzDevs](https://x.com/SalzDevs)
