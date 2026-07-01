@@ -1,4 +1,4 @@
-# SalzDevs
+# TheAfterL8
 
 Developer building focused tools with a bias for control, clarity, and speed.
 
@@ -6,4 +6,4 @@ Interested in systems, automation, developer tooling, and software that does mor
 
 Driven by wonder.
 
-X: [@SalzDevs](https://x.com/SalzDevs)
+X: [[@TheAfterL8](https://x.com/TheAfterL8)
