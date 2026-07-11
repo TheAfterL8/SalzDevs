@@ -6,4 +6,4 @@ Interested in systems, automation, developer tooling, and software that does mor
 
 Driven by wonder.
 
-X: [@TheAfterL8](https://x.com/SalzDevs)
+X: [@SalzDevs](https://x.com/SalzDevs)
